@@ -67,7 +67,7 @@ The Application Runs on **localhost:3000**
 
 The application has just one url /customerlist which ties to *Customers* Component
 
-## Resources
+## Resources.
 
 **create-react-app** : The following link has all the commands that can be used with create-react-app
 https://github.com/facebook/create-react-app
